@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+            
+    
+    <wb-module deploy-name="RegisterLogin_Servlet_Jsp">
+                        
+        
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                        
+        
+        <property name="java-output-path" value="/RegisterLogin_Servlet_Jsp/build/classes"/>
+        <property name="context-root" value="RegisterLogin_Servlet_Jsp"/>
+                    
+    
+    </wb-module>
+        
+
+</project-modules>
