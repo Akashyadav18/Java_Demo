@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <title>profile Page</title>
+  </head>
+  <body>
+	
+	<h2>Profile Page</h2> <br/><br/>
+	
+	<h2>Welcome <span th:text="${model_name}"></span> </h2> <br/><br/>
+	
+	<a th:href="@{/logout}"> Logout </a> <br/>
+	
+	<a href="index.html"> Home </a>
+	
+  </brbody>
+</html>
